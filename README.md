@@ -1,6 +1,6 @@
 # <p align = "center"> Banco de Bravos - API 2º Semestre - BD 2025 - Sprint 1
 
-#Sched'U
+# Sched'U
 
 <p align = "center"><img src="https://github.com/Banco-de-Bravos/Schedu/" alt="Capa" style="width:600px;height:350px;"></p>
 
