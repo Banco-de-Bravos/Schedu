@@ -6,9 +6,10 @@
 #
 <p align = "center"><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/SchedU.png" alt="Capa" style="width:480px;height:275px;"></p>
 
+
 ## 📌 Sumário
 <p align="center">
-  <a href ="#dart-objetivo-sprint-1"> Objetivo </a>  •
+  <a href ="#dart-objetivo"> Objetivo </a>  •
   <a href="#date-sprint-backlog"> 1° Sprint Backlog </a> •
   <a href ="#pencil-fluxograma"> Fluxograma </a>  •
   <a href="#electric_plug-wireframe-das-telas"> Wireframe </a> • 
@@ -17,17 +18,56 @@
   <a href="#chart_with_downwards_trend-burndown"> Burndown </a> •
   <a href="#bookmark-tecnologias-utilizadas"> Tecnologias Utilizadas </a>
 </p>
+<br>
 
-## :dart: Objetivo Sprint 1
-> * Modelagem do banco
-> * Conceito de Telas para a aplicação (wireframe)
-> * User stories
-> * Backlog
-> * Protótipo de tela inicial (Mockup)
-
+## :dart: Objetivo
+> * Planejamento e Organização: Iniciamos a sprint com sessões de planejamento para definimos metas e prioridades claras, estabelecendo um cronograma para reuniões regulares e feedback.
+> * Configuração do Ambiente de Desenvolvimento: Todos os membros da equipe agora têm um ambiente de desenvolvimento definido e configurado para uso, garantindo que todos possam contribuir de maneira eficiente.
+> * Reuniões Iniciais de Requisitos: Realizamos reuniões detalhadas para definir os requisitos, especificações do sistema proposto edefinir o Product Backlog com apoio do nosso PO garantindo a assertividade do mesmo.
+> * Documentação Completa: Criamos uma documentação abrangente que inclui uma visão geral do projeto e seus principais requisitos, servindo como um guia fundamental para toda a equipe e partes interessadas.
+> * Estrutura de Banco de Dados: Definimos a estrutura inicial do banco de dados, fornecendo uma base sólida para o armazenamento de dados essenciais do projeto.
+> * Modelagem de Dados: Realizamos uma modelagem de dados detalhada, incluindo diagramas lógicos e conceituais, um diagrama de classe UML e um Modelo Entidade-Relacionamento (MER). Esses recursos ajudarão na compreensão da estrutura do sistema.
+<br>
 
 ## :date: Sprint Backlog
-![1° Sprint Criar o digrama de relacionamento conceitual Criar um wirframe Criação do Product Backlog Criar um fluxograma do projeto Criar uma tela inicial da aplicação](https://github.com/Banco-de-Bravos/Schedu/)
+<table>
+  <tr>
+    <th>Item do Backlog</th>
+    <th>Categoria</th>
+    <th>Épico</th>
+    <th>Prioridade de Execução</th>
+  </tr>
+  <tr>
+    <td><b>Modelagem do banco</b></td>
+    <td>📊 Arquitetura & Banco de Dados</td>
+    <td>Estruturar tabelas, relacionamentos e chaves.</td>
+    <td>🟢 <b>1º</b> - Base para desenvolvimento</td>
+  </tr>
+  <tr>
+    <td><b>User Stories</b></td>
+    <td>🏗️ Planejamento & Requisitos</td>
+    <td>Definir histórias de usuário.</td>
+    <td>🟢 <b>2º</b> - Essencial para desenvolvimento</td>
+  </tr>
+  <tr>
+    <td><b>Backlog</b></td>
+    <td>📋 Gestão do Projeto</td>
+    <td>Organizar e documentar tarefas futuras.</td>
+    <td>🟢 <b>3º</b> - Prioriza demandas futuras</td>
+  </tr>
+  <tr>
+    <td><b>Wireframe</b></td>
+    <td>🎨 Design & UX</td>
+    <td>Criar esboços das telas da aplicação.</td>
+    <td>🟡 <b>4º</b> - Guia para desenvolvimento visual</td>
+  </tr>
+  <tr>
+    <td><b>Mockup</b></td>
+    <td>🎨 Design & UX</td>
+    <td>Criar uma versão mais detalhada da interface.</td>
+    <td>🟡 <b>5º</b> - Refinamento da interface</td>
+  </tr>
+</table>
 
 
 ## :pencil: Fluxograma
