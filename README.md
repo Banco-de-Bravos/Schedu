@@ -21,14 +21,44 @@ Desenvolvemos este projeto de Gerenciador de Escalas com o objetivo de aprimorar
 
 <br>
 
+
+## Sprints
+![Captura de tela 2025-03-30 125322](https://github.com/user-attachments/assets/eacea960-2883-4acb-840d-0b2a0b207381)
+
 ## Backlog do Projeto 📃
 
 <br>
+  
 
-## Metodologias Utilizadas 🎯
-  <strong>Metodologia Ágil Scrum</strong>
+## Funcionalidades do projeto 🔨
 
-<br>
+- `Funcionalidade 1`: Notificação de Sobreposição
+- `Funcionalidade 2`: Notificação de Descanso Mínimo
+- `Funcionalidade 3`: Restrição dos professores.
+- `Funcionalidade 4`: Alocação Manual de Professores e Disciplinas
+- `Funcionalidade 5`: Adicionar turmas
+- `Funcionalidade 6`: Organização de Períodos
+- `Funcionalidade 7`: Definição da Carga Horária Semanal
+- `Funcionalidade 8`: Vinculação de Professores às Disciplinas
+- `Funcionalidade 9`: Definição de Intervalos entre Aulas
+- `Funcionalidade 10`: Visualização da Grade Horária Consolidada
+
+
+## User Story
+
+Acesse o User Story:
+  <a href="https://github.com/orgs/Banco-de-Bravos/projects/2" target="_blank">
+    <button style="background-color:#0078D7; color:white; border:none; padding:10px 20px; border-radius:5px; font-size:16px;">
+      Clique Aqui
+    </button>
+  </a>
+</div>
+
+
+## Metodologias Utilizadas
+
+Para o desenvolvimento do projeto do Gerenciador de Escalas, foi utilizado o GitHub para documentação, controle de versões e acompanhamento das entregas. A implementação do código foi realizada com o auxílio do IntelliJ IDEA, utilizando a linguagem Java em conjunto com o JavaFX para a criação da interface gráfica. Além disso, o projeto foi conduzido seguindo os princípios da Metodologia Ágil, garantindo maior organização e eficiência no processo de desenvolvimento.
+
 
 ## Autores 👥
 
@@ -40,7 +70,6 @@ Desenvolvemos este projeto de Gerenciador de Escalas com o objetivo de aprimorar
 | ![Patricia ](https://github.com/user-attachments/assets/2c8df948-56d4-4988-b579-bea1b4d039b4) |<div align="center"> Patrícia Moraes Viegas dos Santos | Developer Team |
 | ![Raissa Foto](https://github.com/user-attachments/assets/fda00e54-94b2-4348-8bdc-02d33eb832c1) | <div align="center"> Raissa Matias de Jesus | Developer Team |
 | ![Rodrigo](https://github.com/user-attachments/assets/43b91e80-beae-493b-abf4-1e2cc8cc6175) | <div align="center"> Rodrigo Pereira de Castro | Developer Team |
-  
 
 
 
