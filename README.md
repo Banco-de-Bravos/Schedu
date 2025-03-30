@@ -101,10 +101,57 @@
 ## :bookmark: Tecnologias Utilizadas
 > * [Java](https://www.java.com/pt-BR/)
 > * [Git/Github (Controle de versão)](https://github.com/)
-> * [VsCode](https://code.visualstudio.com/)
+> * [Intellij](https://www.jetbrains.com/pt-br/idea/)
 > * [Figma](https://www.figma.com/)
-> * [Canva](https://www.canva.com/)
 > * [BR Modelo](https://app.brmodeloweb.com/)
+> * [Visio](https://www.microsoft.com/pt-br/microsoft-365/visio/flowchart-software)
 
 
-
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Intellij" 
+    title="IntelliJ"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="UML" 
+    title="UML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" 
+/>
+<img 
+    align="left" 
+    alt="UML" 
+    title="UML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/socialmediafootericon_4_RE4k7FT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain" 
+/>
