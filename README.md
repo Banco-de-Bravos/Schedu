@@ -68,35 +68,35 @@
     <td>🟡 <b>5º</b> - Refinamento da interface</td>
   </tr>
 </table>
-
+<br>
 
 ## :pencil: Fluxograma
 <p><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/Fluxograma.jpg" alt="Capa" style="width:600px;height:350px;"></p>
 
 > * [Link de acesso ao Fluxograma](https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/)
-
+<br>
 
 ## :electric_plug: Wireframe das Telas
 <p><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/Wireframe.png" alt="Wireframe" style="width:650px;height:350px;"></p>
 
 > * [Link de acesso do Wireframe](https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/)
-
+<br>
 
 ## :computer: Mockup das Telas
 <p><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/Mockup.gif" alt="Capa" style="width:600px;height:350px;"></p>
 
 > * [Link de acesso do Mockup](https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/)
-
+<br>
 
 ## :bulb: Modelo Conceitual e Lógico do BD
 <p><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/modelagem_banco_schedu.png" alt="Capa" style="width:500px;height:350px;"></p>
 
 > * [Link de acesso ao Modelo](https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/)
-
+<br>
 
 ## :chart_with_downwards_trend: Burndown
 <p><img src="https://github.com/Banco-de-Bravos/Schedu/" alt="Capa" style="width:600px;height:350px;"></p>
-
+<br>
 
 ## :bookmark: Tecnologias Utilizadas
 > * [Java](https://www.java.com/pt-BR/)
