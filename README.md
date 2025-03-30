@@ -23,14 +23,14 @@
 
 
 ## :computer: Mockup das Telas
-<p><img src="https://github.com/Banco-de-Bravos/Schedu/" alt="Capa" style="width:600px;height:350px;"></p>
+<p><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/Mockup.gif" alt="Capa" style="width:600px;height:350px;"></p>
 
-> * [Link para acesso do Mockup](https://github.com/Banco-de-Bravos/Schedu/)
+> * [Link para acesso do Mockup](https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/)
 
 ## :electric_plug: Wireframe das Telas
-<p><img src="[https://github.com/InfinityDevAPI/InfintyDev/assets/111203231/67857b1c-1c91-4bef-b8d4-29190c00832a](https://github.com/Banco-de-Bravos/Schedu/)" alt="Wireframe" style="width:650px;height:350px;"></p>
+<p><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/Wireframe.png" alt="Wireframe" style="width:650px;height:350px;"></p>
 
-> * [Link para acesso do Wireframe](https://www.figma.com/proto/CrRDEGQyv8MTocF4Bgd0fi/API-FATEC-2%C2%BA-Semestre?node-id=7-15&p=f&t=qQlRXpRJ0kZLGhWI-1&scaling=scale-down&content-scaling=fixed&page-id=7%3A13&starting-point-node-id=7%3A14)
+> * [Link para acesso do Wireframe](https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/)
 
 ## :chart_with_upwards_trend: Fluxograma
 <p><img src="https://github.com/Banco-de-Bravos/Schedu/" alt="Capa" style="width:600px;height:350px;"></p>
