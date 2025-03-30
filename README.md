@@ -32,8 +32,10 @@
 
 > * [Link para acesso do Wireframe](https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/)
 
-## :chart_with_upwards_trend: Fluxograma
-<p><img src="https://github.com/Banco-de-Bravos/Schedu/" alt="Capa" style="width:600px;height:350px;"></p>
+## :pencil: Fluxograma
+<p><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/Fluxograma.jpg" alt="Capa" style="width:600px;height:350px;"></p>
+
+> * [Link para acesso ao Fluxograma](https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/)
 
 ## :bulb: Modelo Conceitual e Lógico do BD
 <p>
