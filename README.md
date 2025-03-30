@@ -1,7 +1,10 @@
-# <p align = "center"> <img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Bravos_icon.jpeg" alt="Capa" style="width:100px;height:80px;"> Banco de Bravos - API 2º Semestre - BD 2025 - Sprint 1
+<p align="center">
+  <img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Bravos_icon.jpg" width="100" height="80" align="middle">
+  <span style="vertical-align: middle;"><b>Banco de Bravos - API 2º Semestre - BD 2025 - Sprint 1</b></span>
+</p>
 
-# 
-<p align = "center"><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/SchedU.png" alt="Capa" style="width:600px;height:350px;"></p>
+#
+<p align = "center"><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/SchedU.png" alt="Capa" style="width:480px;height:275px;"></p>
 
 ## 📌 Sumário
 <p align="center">
