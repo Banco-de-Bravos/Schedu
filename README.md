@@ -94,8 +94,9 @@
 > * [Link de acesso ao Modelo](https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/)
 <br>
 
-## :chart_with_downwards_trend: Burndown
-<p><img src="https://github.com/Banco-de-Bravos/Schedu/" alt="Capa" style="width:600px;height:350px;"></p>
+## :chart_with_downwards_trend: Burnup
+<p><img src="https://github.com/Banco-de-Bravos/Schedu/blob/sprint-1/Documentacao/BURNUP-SPRINT1.png" alt="Capa" style="width:600px;height:350px;"></p>
+<a href="https://github.com/orgs/Banco-de-Bravos/projects/2/insights?period=custom&start_date=2025-03-10&end_date=2025-03-30" target="_blank">Detalhes das tasks e burnup</a>
 <br>
 
 ## :bookmark: Tecnologias Utilizadas
