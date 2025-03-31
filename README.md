@@ -36,7 +36,7 @@ Desenvolvemos este projeto de Gerenciador de Escalas com o objetivo de aprimorar
 
 
 ## Sprints
-![Captura de tela 2025-03-30 125322](https://github.com/user-attachments/assets/eacea960-2883-4acb-840d-0b2a0b207381)
+<strong><a href="https://github.com/Banco-de-Bravos/Schedu/tree/sprint-1">Sprint-1</a></strong>
 
 ## Backlog do Projeto 📃
 
